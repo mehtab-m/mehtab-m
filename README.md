@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mehta
+# 👋 Hi, I'm Muhammad Mehtab
 
 ## 🚀 About Me
 - 🎓 Software Engineering student at UET Lahore (Pakistan’s top public university)  
@@ -25,9 +25,9 @@
 - 📈 Growth: continuously learning and expanding into new domains  
 
 ## 📫 Connect With Me
-- [LinkedIn](https://linkedin.com/in/your-link)  
-- [GitHub](https://github.com/your-username)  
-- [Email](mailto:your-email@example.com)  
+- [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/muhammad-mehtab-715881294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- [Portfolio](mehta-portfolio.vercel.app)  
+- [Email](mehtayaseen@gmail.com)  
 
 ---
 ⭐️ *Always building, always learning.*
