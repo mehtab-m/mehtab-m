@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Mehtab
 
 ## 🚀 About Me
-- 🎓 Software Engineering student at UET Lahore (Pakistan’s top public university)  
+- 🎓 Software Engineering student at UET Lahore 
 - 💻 Software Engineer | MERN Stack Developer  
 - 🔧 Currently working with a team on **ASP.NET projects**  
 - 🌍 Adaptable and focused on solving **real-world problems**  
